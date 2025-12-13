@@ -34,7 +34,7 @@ Voice journaling app with speech-to-text transcription.
 Mobile:       React Native, Expo
 Frontend:     React, JavaScript, TypeScript, HTML5, CSS3
 Backend:      Python, Node.js, Flask
-Database:     Firebase, MongoDB, AsyncStorage
+Database:     Firebase, MongoDB
 APIs:         REST API, Speech Recognition, RevenueCat
 DevOps:       Git, Firebase Analytics, Sentry
 ```
