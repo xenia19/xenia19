@@ -14,7 +14,7 @@ I build mobile apps that help people improve their lives. My primary app has **5
 
 🇬🇧 English • 🇪🇸 Spanish • 🇮🇹 Italian • 🇷🇺 Russian
 
-## 📱 Featured Project
+## 📱 Published Apps
 
 ### [Positive Audio Affirmations](https://play.google.com/store/apps/details?id=com.voiceapp.voice)
 A self-hypnosis app for building positive habits through voice affirmations.
@@ -23,14 +23,20 @@ A self-hypnosis app for building positive habits through voice affirmations.
 
 Built with: React Native • Firebase •  In-App Purchases
 
+### [Voice Journal](https://play.google.com/store/apps/details?id=com.voicejournal)
+Voice journaling app with speech-to-text transcription.
+
+📥 **1,000+ downloads** • 🛠️ React Native + Python Backend
+
 ## 🛠 Tech Stack
 
 ```
-Frontend:     React, JavaScript, HTML5, CSS3, SASS
 Mobile:       React Native, Expo
-Backend:      Node.js, Python, Firebase, MongoDB
-APIs:         REST API
-Tools:        Git, VS Code
+Frontend:     React, JavaScript, TypeScript, HTML5, CSS3
+Backend:      Python, Node.js, Flask
+Database:     Firebase, MongoDB, AsyncStorage
+APIs:         REST API, Speech Recognition, RevenueCat
+DevOps:       Git, Firebase Analytics, Sentry
 ```
 
 ## 📫 Let's Connect
