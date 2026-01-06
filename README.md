@@ -19,7 +19,7 @@ I build mobile apps that help people improve their lives. My primary app has **5
 ### [Positive Audio Affirmations](https://play.google.com/store/apps/details?id=com.voiceapp.voice)
 A self-hypnosis app for building positive habits through voice affirmations.
 
-⭐ **4.0 rating** • 📥 **5,000+ downloads** • 🎯 **97 reviews**
+⭐ **4.0 rating** • 📥 **10,000+ downloads** • 🎯 **97 reviews**
 
 Built with: React Native • Firebase •  In-App Purchases
 
