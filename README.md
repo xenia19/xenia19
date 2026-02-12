@@ -2,7 +2,7 @@
 
 **Frontend & Mobile Developer** with a passion for creating beautiful and user-friendly digital experiences. 
 
-I build mobile apps that help people improve their lives. My primary app has **5,000+ downloads** on Google Play.
+I build mobile apps that help people improve their lives. My primary app has **10,000+ downloads** on Google Play.
 
 ## 🚀 What I Do
 
