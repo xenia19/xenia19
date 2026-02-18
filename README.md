@@ -23,10 +23,11 @@ A self-hypnosis app for building positive habits through voice affirmations.
 
 Built with: React Native • Firebase •  In-App Purchases
 
-### [Voice Journal](https://play.google.com/store/apps/details?id=com.voicejournal)
+### Voice Journal
 Voice journaling app with speech-to-text transcription.
 
-📥 **1,000+ downloads** • 🛠️ React Native + Python Backend
+Engineering Demo • Offline-First Architecture 
+🛠️ React Native + Python Backend
 
 ## 🛠 Tech Stack
 
