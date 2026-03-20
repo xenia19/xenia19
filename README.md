@@ -1,52 +1,57 @@
 # Hi, I'm Xenia 👋
 
-**Frontend & Mobile Developer** with a passion for creating beautiful and user-friendly digital experiences. 
+**React & React Native Developer** building apps that real people use every day.  
+My latest project has **10 AI-powered game engines**. My mobile app has **10,000+ downloads** on Google Play.
 
-I build applications that help people improve their lives. My primary mobile app has **10,000+ downloads** on Google Play.
+## 🚀 What I build
 
-## 🚀 What I Do
+- 🤖 **AI-Powered Platforms** — DeepSeek AI, ElevenLabs, gamification
+- 📱 **Mobile Apps** — React Native, from idea to Google Play with paying subscribers
+- 🌐 **Web Platforms** — React, Firebase, real-time sync, booking systems
 
-- 📱 **Mobile Development** — React Native apps from idea to Play Store
-- 🌐 **Frontend Development** — React, JavaScript, responsive web applications
-- 🎯 **User-Centered Design** — Psychology degree helps me understand user behavior
+## 💻 Featured projects
 
-## 🌍 Languages I Speak
+### [Tranquilo.Quest](https://tranquilo.quest/) — Gamified Language Learning PWA
+AI-powered platform with 10 custom game engines for learning survival Spanish.  
+🎮 **10 Engines** · 🤖 **DeepSeek AI Tutor** · 🎧 **ElevenLabs Voice** · 🏆 **XP & Achievements**  
+*Built with: React · Firebase · DeepSeek AI · ElevenLabs · PWA*
 
-🇬🇧 English • 🇪🇸 Spanish • 🇮🇹 Italian • 🇷🇺 Russian
+### [Positive Audio Affirmations](https://play.google.com/store/apps/details?id=com.voiceapp.voice) — Mobile App
+Self-improvement app with voice affirmations and paying subscribers.  
+⭐ **4.0 rating** · 📥 **10,000+ downloads** · 💰 **MRR via RevenueCat**  
+*Built with: React Native · Redux Persist · Firebase · RevenueCat*
 
-## 💻 Featured Projects
+### [The Spanish LXP: Immersion Quest](https://clases-con-xenia.com/app/) — EdTech
+Gamified learning platform with AI tutor and travel metaphor.  
+🛂 **Digital Passport UI** · 🧠 **AI Error Correction**  
+*Built with: React · DeepSeek AI · Firestore · Gamification*
 
-### [Positive Audio Affirmations](https://play.google.com/store/apps/details?id=com.voiceapp.voice)
-A self-hypnosis app for building positive habits through voice affirmations.
-⭐ **4.0 rating** • 📥 **10,000+ downloads** • 🎯 **97 reviews**
-*Built with: React Native • Firebase • RevenueCat (In-App Purchases)*
+### [Tutor Booking SaaS](https://clases-con-xenia.com/) — Full-Stack Web App
+Automated scheduling with Google Calendar sync and email reminders.  
+📅 **Calendar Sync** · ✉️ **Auto Reminders**  
+*Built with: React · Firebase · Google Calendar API · GitHub Actions*
 
-### [Tutor Booking SaaS](https://github.com/xenia19/calendar-clases-con-xenia)
-Automated scheduling system offering interactive booking and Google Calendar sync.
-🤖 **Node.js Automations** • 💳 **Credit-based booking**
-*Built with: React • Firebase • Node.js • GitHub Actions*
+### [Voice Journal](https://play.google.com/store/apps/details?id=com.voicejournal) — Mobile App
+Speech-to-text journaling app with Python backend.  
+🎙️ **1,000+ Downloads** · 🐍 **Flask Backend**  
+*Built with: React Native · Python (Flask) · Speech Recognition*
 
-### [The Spanish LXP: Immersion Quest](https://github.com/xenia19/spanish-lxp-immersion)
-Gamified learning platform with a travel metaphor and AI-powered tutor.
-🛂 **Digital Passport UI** • 🧠 **Smart AI Validation**
-*Built with: React • Tailwind CSS • DeepSeek AI API*
+## 🛠 Tech stack
 
-### [Voice Journal](https://github.com/xenia19/voice-journal)
-Voice journaling app with speech-to-text transcription.
-🛠️ **Engineering Demo** • 📴 **Offline-First Architecture** *Built with: React Native • Python (Flask) Backend • Vosk API*
+| Layer | Technologies |
+|-------|-------------|
+| **Mobile** | React Native, Redux Persist, In-App Purchases |
+| **Frontend** | React 19, JavaScript (ES6+), HTML/CSS |
+| **Backend** | Firebase (Auth, Firestore), Python/Flask, Node.js |
+| **AI & APIs** | DeepSeek AI, ElevenLabs, Google Calendar API, RevenueCat |
+| **Tools** | Git, GitHub Actions CI/CD, Google Play Console, PWA |
 
-## 🛠 Tech Stack
+## 🌍 Languages
 
-* **Mobile:** React Native, Expo
-* **Frontend:** React, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3
-* **Backend & DB:** Python (Flask), Node.js, Firebase
-* **APIs & AI:** REST API, DeepSeek AI, Speech Recognition, RevenueCat
-* **Tools:** Git, GitHub Actions, Firebase Analytics, Sentry
+🇬🇧 English · 🇪🇸 Spanish · 🇮🇹 Italian · 🇷🇺 Russian
 
-## 📫 Let's Connect
+## 📫 Let's connect
 
-- 🌐 [Portfolio Website](https://xenia19.github.io/portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ksenia-galaktionova-a60b30b0/)
-- 📧 xenia13@protonmail.com
+🌐 [Portfolio](https://xenia19.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/ksenia-galaktionova-a60b30b0/) · 📧 xenia13@protonmail.com
 
-*Based in Palermo, Italy 🇮🇹 • Open to remote opportunities*
+*Based in Palermo, Italy 🇮🇹 · Open to remote opportunities*
