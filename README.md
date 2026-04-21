@@ -45,7 +45,7 @@ Speech-to-text journaling app with a custom Python backend.
 
 ## 🌍 Languages
 
-🇬🇧 English (C1) · 🇪🇸 Spanish (C2) · 🇮🇹 Italian (C1) · 🇷🇺 Russian (Native)
+🇬🇧 English (C1) · 🇪🇸 Spanish (C2) · 🇮🇹 Italian (B2) · 🇷🇺 Russian (Native)
 
 ## 📫 Let's connect
 
